@@ -19,11 +19,36 @@ Built with a modular architecture using **React 19**, **Vite 6**, and **Tailwind
 
 ---
 
-## 🌐 Live Transmission
-**[DEPLOYMENT_LINK](https://ais-pre-ciqchn2rtvfsta3jqza7no-627196256439.asia-southeast1.run.app)**
+## 🌐 Live Deployments
 
+- **🚀 Netlify Production**  
+  https://yashsys.netlify.app
+
+- **🌍 GitHub Pages Backup**  
+  https://yspanchal6.github.io/portfolio/
 ---
+## 📸 Portfolio Highlights
 
+  - ⚡Futuristic Cyberpunk UI
+  
+  - 🤖 AI ChatBot Integration
+    
+  - 🔐 Cybersecurity-Inspired Design
+  
+  - 📱 Fully Responsive Experience
+  
+  - 🎬 Smooth Motion Animations
+  
+  - 📂 Advanced Project Showcase
+  
+  - 📨 Professional Contact Gateway
+  
+  -  🚀 Production-Ready Architecture
+---
+![React](https://img.shields.io/badge/React-19-00d8ff?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00c7b7?style=for-the-badge&logo=netlify&logoColor=white)
 ## 🛠️ Tech Stack & Infrastructure
 
 | Layer | Technology | Purpose |
